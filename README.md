@@ -1,5 +1,5 @@
-# Example Site for Hugo Initio Theme
+# About
 
-Example Site for Hugo Initio Theme
+Professional website for Joshua Reaser, sign language interpreter.
 
-https://github.com/miguelsimoni/hugo-initio
+https://joshuareaser.com
