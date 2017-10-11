@@ -11,14 +11,14 @@ theme = "hugo-initio"
     # phone = ""
     # address = ""
     year = 2017
-    background = ""
+    # background = ""
     favicon = "images/favicon.ico"
     DateForm = "January 2, 2006"
 
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownload = true
+    # showDownload = true
     showClients = true
 
 [[menu.main]]

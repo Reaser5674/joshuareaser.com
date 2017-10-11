@@ -5,14 +5,12 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+*Joshua Reaser* is a state qualified interpreter (WVRI – State, WVRI – K12) working in education and private practice.
 
-![about](../images/mac.jpg)
+Raised in the hills of North Central West Virginia, Joshua currently resides in the greater Morgantown area where he is employed as the senior Educational Sign Language Interpreter at the Monongalia County Board of Education. In the past, Joshua has interpreted for the West Virginia Commission for the Deaf and Hard of Hearing and has been a staff interpreter at West Virginia University, Fairmont State University, and the Harrison County Board of Education.
 
-### Necessitatibus
+Joshua learned American Sign Language (ASL) at an early age and has been involved in ASL, Deaf Culture, and interpreting for over 20 years. He began his interpreting career as a freelance interpreter employed with various agencies, gaining experience in community, medical, mental health, secondary and post-secondary educational interpreting. These experiences led Joshua to start his own business, [ViaTerp Interpreting Services](http://viaterp.com), in 2014.
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+Joshua is driven by his professional code of conduct and is focused on the advancement of the interpreting profession as well as the professional development needs of educational interpreters. He regularly attends workshops and trainings to maintain his professional edge and acts as a resource to other interpreters in the state.
 
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+In his free time, Joshua administers the Greater Morgantown Deaf Alliance, a public group centered around ASL and Deaf Culture in the Morgantown area.
