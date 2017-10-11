@@ -5,7 +5,7 @@ type = "about"
 weight = 200
 +++
 
-The **PDF version** of this online resume is also available [here](/downloads/joshua-reaser-resume.pdf) for download.
+The **PDF version** of my online resume is also available [here](/downloads/joshua-reaser-resume.pdf) for download.
 
 # Professional Overview
 
