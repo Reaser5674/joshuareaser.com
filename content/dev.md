@@ -2,7 +2,7 @@
 menu = "main"
 title = "Professional Development"
 type = "about"
-weight = 200
+weight = 300
 +++
 
 The following are the workshops, conferences, and other professional development activities I have attended and the continuing education units (CEUs) earned for each.
