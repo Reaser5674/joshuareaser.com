@@ -30,15 +30,30 @@
 				<div class="widget-body">
 					<form name="contact" action="/sent/" netlify="" data-netlify="true" netlify-honeypot="no-show">
 						<fieldset>
-							<p><input name="sender_name" placeholder="Your Name (Required)" required="" type="text"></p>
+							<p>
+								<label for="sender_name">Your Name (Required)</label>
+								<input name="sender_name" required="" type="text">
+							</p>
 
-						  	<p><input name="sender_email" placeholder="Your Email Address (Required)" required="" type="text"></p>
+						  	<p>
+								<label for="sender_email">Your Email Address (Required)</label>
+								<input name="sender_email" required="" type="text">
+							</p>
 
-							<p><input name="sender_phone" placeholder="Your Phone Number (Optional)" type="text"></p>
+							<p>
+								<label for="sender_phone">Your Phone Number</label>
+								<input name="sender_phone" type="text">
+							</p>
 
-						    <p><textarea name="message" placeholder="Enter your message to Joshua." required=""></textarea></p>
+						    <p>
+								<label for="message_body">Your Inquiry for Joshua</label>
+								<textarea name="message_body" required=""></textarea>
+							</p>
 
-						    <p><input name="no-show" class="hidden"><button name="submit">Send Message</button></p>
+						    <p>
+								<input name="no-show" class="hidden">
+								<input name="submit" type="submit" value="Send" />
+							</p>
 						</fieldset>
 					</form>
 
