@@ -775,6 +775,7 @@ footer.entry-meta .meta-in {
 }
 #footer div.widget-body {
     padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #underfooter {
   background: #191919;

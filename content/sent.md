@@ -1,5 +1,5 @@
 +++
-title = "Inquiry"
+title = "Contact"
 type = "about"
 +++
 

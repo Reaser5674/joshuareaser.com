@@ -1,0 +1,60 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+
+			<!-- Sidebar -->
+			<aside class="col-sm-4 sidebar sidebar-right">
+
+				<div class="nav text-right nav-side">
+					<li class="active"><a href="#">{{ .Title }}</a></li>
+				</div>
+
+			</aside>
+			<!-- /Sidebar -->
+
+			<!-- Article main content -->
+			<article class="col-sm-8 maincontent">
+                {{ .Content }}
+
+				<form name="contact" action="/sent/" netlify="" data-netlify="true" netlify-honeypot="no-show">
+					<fieldset>
+						<p>
+							<label for="sender_name">Your Name (Required)</label><br />
+							<input name="sender_name" required type="text">
+						</p>
+
+						<p>
+							<label for="sender_email">Your Email Address (Required)</label><br />
+							<input name="sender_email" required type="text">
+						</p>
+
+						<p>
+							<label for="sender_phone">Your Phone Number</label><br />
+							<input name="sender_phone" type="text">
+						</p>
+
+						<p>
+							<label for="message_body">Message (Required)</label><br />
+							<textarea name="message_body" required></textarea>
+						</p>
+
+						<p>
+							<input name="no-show" class="hidden">
+							<input name="submit" type="submit" value="Send" />
+						</p>
+					</fieldset>
+				</form>
+			</article>
+			<!-- /Article -->
+
+
+		</div>
+	</div>	<!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}
