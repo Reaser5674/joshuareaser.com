@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
-	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
+	<meta name="author"      content="Josh Reaser">
 
 	<title>{{ .Title }}</title>
 
@@ -33,7 +33,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="{{ .Site.BaseURL }}images/headshot.jpg" alt="">
+			<a href="{{ .Site.BaseURL }}"><img class="img-circle" src="{{ .Site.BaseURL }}images/headshot.jpg" alt=""></a>
 			<span class="title">{{ .Site.Params.name }}</span>
 			<span class="tagline">{{ .Site.Params.description }}<br>
 				<a href="">{{ .Site.Params.email }}</a>
