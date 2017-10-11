@@ -1,7 +1,7 @@
 +++
 menu = "main"
-title = "About"
-type = "about"
+title = "Bio"
+type = "bio"
 weight = 10
 +++
 
