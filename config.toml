@@ -4,6 +4,9 @@ title = "Joshua Reaser, Sign Language Interpreter"
 
 theme = "hugo-initio"
 
+[blackfriday]
+  fractions = false
+
 [params]
     name = "Joshua Reaser"
     description = "Sign Language Interpreter"
