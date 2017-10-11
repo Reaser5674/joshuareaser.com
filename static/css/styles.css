@@ -798,6 +798,9 @@ footer.entry-meta .meta-in {
   float: left;
   margin: 0 10px 0 0;
 }
+#footer p {
+    margin-bottom: 15px;
+}
 /* Max page width
 /////////////////////////////////////////////////////////////////////*/
 @media (min-width: 1200px) {
