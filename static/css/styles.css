@@ -771,6 +771,10 @@ footer.entry-meta .meta-in {
   text-transform: uppercase;
   color: #ccc;
   margin: 0 0 20px;
+  clear: both;
+}
+#footer div.widget-body {
+    padding-bottom: 20px;
 }
 #underfooter {
   background: #191919;
