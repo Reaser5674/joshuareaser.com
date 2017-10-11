@@ -20,9 +20,9 @@ theme = "hugo-initio"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    # showRecentWorks = true
     # showDownload = true
-    showClients = true
+    # showClients = true
 
 [[menu.main]]
     name = "home"
