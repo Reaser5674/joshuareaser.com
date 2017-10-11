@@ -2,7 +2,7 @@
 menu = "main"
 title = "Bio"
 type = "about"
-weight = 10
+weight = 100
 +++
 
 *Joshua Reaser* is a state qualified interpreter (WVRI – State, WVRI – K12) working in education and private practice.
