@@ -15,7 +15,7 @@ theme = "hugo-initio"
     # address = ""
     year = 2017
     # background = ""
-    favicon = "images/favicon.ico"
+    favicon = "images/favicon.png"
     DateForm = "January 2, 2006"
 
     showSubheader = true
