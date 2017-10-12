@@ -14,7 +14,7 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 + Started an interpreting business, ViaTerp Interpreting Services, in 2014.
 + Motivated by a professional code of conduct and focused on the advancement of the interpreting profession as well as the professional development needs of educational interpreters.
 + Regularly attends workshops and trainings to maintain professional edge and acts as a resource to other interpreters in the state.
-Successfully passed the NIC-Knowledge Exam in September 2015.
++ Successfully passed the NIC-Knowledge Exam in September 2015.
 + Previous clients: West Virginia Commission for the Deaf and Hard of Hearing, West Virginia University, Fairmont State University, West Virginia Division of Rehabilitation Services, and West Virginia University Hospital, Inc.
 + Administers the Greater Morgantown Deaf Alliance, a public group centered around ASL and Deaf Culture in the Morgantown area.
 
@@ -27,7 +27,7 @@ Successfully passed the NIC-Knowledge Exam in September 2015.
 + Knowledge of Discourse Mapping, including message intent, prosody, affect, and cohesion.
 + Knowledge of Register (Formal, Frozen, Consultative, Casual, and Intimate) and its impact on the interpreted message.
 + Sensitive to the cultural differences that occur between the Deaf and hearing communities, and works towards mitigating these differences.
-+ Familiarity with the Demand-Control Schema and the Role-Space.
++ Familiarity with the Demand-Control Schema and Interpreter Role-Space.
 + Familiarity with Constructed Action – Constructed Dialogue.
 + Knowledge of Individualized Education Plans and working with an IEP team to implement the goals set forth therein.
 + Flexibility to adapt to any situation.
