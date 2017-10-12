@@ -11,4 +11,4 @@ Joshua learned American Sign Language (ASL) at an early age and has been involve
 
 Joshua is driven by his professional code of conduct and is focused on the advancement of the interpreting profession as well as the professional development needs of educational interpreters. He regularly attends workshops and trainings to maintain his professional edge and acts as a resource to other interpreters in the state.
 
-In his free time, Joshua administers the [Greater Morgantown Deaf Alliance](https://www.facebook.com/groups/gmdawv/), a public group centered around ASL and Deaf Culture in the Morgantown area. Can't we change?
+In his free time, Joshua administers the [Greater Morgantown Deaf Alliance](https://www.facebook.com/groups/gmdawv/), a public group centered around ASL and Deaf Culture in the Morgantown area.
