@@ -7,7 +7,11 @@ weight = 300
 
 The following are the workshops, conferences, and other professional development activities I have attended and the continuing education units (CEUs) earned for each.
 
+# 2018
+- **2/10:** _Roman Numeral II: Back to the Basics: Unpacking Sign to Voice Essentials_, Boys Town National Research Hospital – EIPA Diagnostic Center (Frances J. Beaurivage, RID CI/CT & Bethany Koubsky B.A., RID CI/CT), 0.4 CEUs.
+
 # 2017
+- **12/2:** _Roman Numeral IV: Back to the Basics: Unpacking Discourse Mapping_, Boys Town National Research Hospital – EIPA Diagnostic Center (Deborah Cates, Ph. D.), 0.4 CEUs.
 - **10/7:** _Roman Numeral III: Back to the Basics: Unpacking the Foundational Skills_, Boys Town National Research Hospital – EIPA Diagnostic Center (Frances J. Beaurivage, RID CI/CT & Bethany Koubsky, BA, RID CI/CT), 0.4 CEUs.
 - **9/23:** _Terps In Education: Interpreter as Actor: What I Learned from the NAIE Conference_, West Virginia Commission for the Deaf and Hard of Hearing (Pamela Cress), 0.3 CEUs.
 - **7/8:** _English Equivalents: Whoa! Train Zoom Gone. Did You See What She Signed? What Did She Mean by That and How Can I Say it in English?_, Trix Bruce Workshops (Trix Bruce, BA), 0.4 CEUs.
