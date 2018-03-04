@@ -51,7 +51,10 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 
 # Experience
 
-##### 2014 – Present: ViaTerp Interpreting Services (Morgantown, WV)
+##### 2018 – Present: Reaser Interpreting (Morgantown, WV)
+- Lead Interpreter/Owner
+
+##### 2014 – 2018: ViaTerp Interpreting Services (Morgantown, WV)
 - Owner/Sign Language Interpreter
 
 ##### 2012 – Present: Monongalia County Schools (Morgantown, WV)
