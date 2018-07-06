@@ -8,6 +8,12 @@ weight = 300
 The following are the workshops, conferences, and other professional development activities I have attended and the continuing education units (CEUs) earned for each.
 
 # 2018
+- **6/24:** _ASL to English Interpreting: Riding the Wave of Improvement_, VRID 2018 Biennial Conference (Josh Garrett, BA, CI & CT, NIC), 0.3 CEUs.
+- **6/23:** _How Not to Make Waves in Our Modern Day Ethical Choices_, VRID 2018 Biennial Conference (Josh Garrett, BA, CI & CT, NIC), 0.3 CEUs.
+- **6/23:** _Mission Impossible: Educational Interpreters & Phonics Instruction Content_, VRID 2018 Biennial Conference (Jennifer Cranston, M:Ed, NIC-Advanced, Ed:K-12), 0.3 CEUs.
+- **6/22:** _Interpreters for the Deaf? Let's Talk About Interpreters AND the Deaf - Our Complex Dynamic, Reconciliation, and How We Can Truly "Make Waves"_, VRID 2018 Biennial Conference (Star Grieser, MA, CDI), 0.3 CEUs.
+- **4/21:** _Optimizing Interpreter Strengths/Understanding and Decompressing from Stress and Vicarious Trauma_, Sorenson VRS Workshops (Dr. Diane Gross, DOM, L.Ac., Dipl. OM., HLC, CI/CT), 0.7 CEUs.
+- **2/10:** _Roman Numeral I: Unpacking Use of Space and Classifiers_, Boys Town National Research Hospital – EIPA Diagnostic Center (Jonathan Scherling B.A.), 0.4 CEUs.
 - **2/10:** _Roman Numeral II: Back to the Basics: Unpacking Sign to Voice Essentials_, Boys Town National Research Hospital – EIPA Diagnostic Center (Frances J. Beaurivage, RID CI/CT & Bethany Koubsky B.A., RID CI/CT), 0.4 CEUs.
 
 # 2017
