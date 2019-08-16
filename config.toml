@@ -47,7 +47,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "facebook"
 	url = "https://www.facebook.com/joshua.reaser81"
-    icon = "fa-facebook-square"
+    icon = "fa-facebook-official"
     footer = true
     # sharethis = true
     network = "facebook"
@@ -55,7 +55,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/JoshuaReaser"
-    icon = "fa-twitter-square"
+    icon = "fa-twitter"
     footer = true
     # sharethis = true
     network = "twitter"
@@ -79,7 +79,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "linkedin"
 	url = "http://www.linkedin.com/in/joshuareaser"
-    icon = "fa-linkedin-square"
+    icon = "fa-linkedin"
     footer = true
     # sharethis = true
     network = "linkedin"
