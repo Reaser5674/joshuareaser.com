@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 by Ron Reaser
+Copyright (c) 2019 by Ron Reaser
 
 Portions copyright (c) 2017 Miguel Simoni
 
