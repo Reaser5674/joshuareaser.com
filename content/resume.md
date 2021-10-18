@@ -54,7 +54,7 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 ##### 2021 – Present: Sorenson Communications, LLC (Morgantown, WV)
 - Community Interpreter
 
-##### 2018 – Present: Reaser Logistics LLC [Reaser Interpreting] (Morgantown, WV)
+##### 2018 – Present: Reaser Logistics LLC dba Reaser Interpreting (Morgantown, WV)
 - Lead Interpreter/Owner
 
 ##### 2014 – 2018: ViaTerp Interpreting Services (Morgantown, WV)
