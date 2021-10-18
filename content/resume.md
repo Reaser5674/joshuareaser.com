@@ -9,7 +9,7 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 
 # Professional Overview
 
-+ State-qualified interpreter (WVRI – State, WVRI – K12) working in education and private practice, with 16+ years experience in the interpreting field.
++ State-qualified interpreter (WVRI – State, WVRI – K12) working in education and private practice, with 20+ years experience in the interpreting field.
 + Began career as a freelance interpreter employed with various agencies, gaining experience in community, medical, mental health, K-12 and post-secondary educational interpreting.
 + Started an interpreting business, ViaTerp Interpreting Services, in 2014.
 + Motivated by a professional code of conduct and focused on the advancement of the interpreting profession as well as the professional development needs of educational interpreters.
@@ -54,10 +54,13 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 ##### 2018 – Present: Reaser Interpreting (Morgantown, WV)
 - Lead Interpreter/Owner
 
+##### 2021 – Present: Sorenson Communications, LLC (Morgantown, WV)
+- Community Interpreter
+
 ##### 2014 – 2018: ViaTerp Interpreting Services (Morgantown, WV)
 - Owner/Sign Language Interpreter
 
-##### 2012 – Present: Monongalia County Schools (Morgantown, WV)
+##### 2012 – 2021: Monongalia County Schools (Morgantown, WV)
 - Educational Sign Language Interpreter II
 
 ##### 2009 – 2012: Harrison County Schools (Clarksburg, WV)
