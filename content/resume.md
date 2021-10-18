@@ -51,11 +51,11 @@ The **PDF version** of my online resume is also available [here](/downloads/josh
 
 # Experience
 
-##### 2018 – Present: Reaser Interpreting (Morgantown, WV)
-- Lead Interpreter/Owner
-
 ##### 2021 – Present: Sorenson Communications, LLC (Morgantown, WV)
 - Community Interpreter
+
+##### 2018 – Present: Reaser Interpreting (Morgantown, WV)
+- Lead Interpreter/Owner
 
 ##### 2014 – 2018: ViaTerp Interpreting Services (Morgantown, WV)
 - Owner/Sign Language Interpreter
